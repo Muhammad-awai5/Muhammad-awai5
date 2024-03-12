@@ -1,6 +1,6 @@
 <h1 align="center"> Welcome 👋</h1>
 
-![Ahmed Anwar](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Greetings%2C+my+name+is+Muhammad+Awais)
+![Muhammad Awais](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Greetings%2C+my+name+is+Muhammad+Awais)
 - 👋 Hi, I’m Muhammad Awais
 - 👀 I’m interested in software Development
 - 🌱 I’m currently learning Docker,Kuberneties and AWS
@@ -22,7 +22,7 @@
 
 <p align="center">
 <a href="https://fi.linkedin.com/in/muhammad-awais-121b4a164/](https://fi.linkedin.com/in/muhammad-awais-121b4a164/">
-<img alt="LinkedIn" src="https://img.shields.io/badge/ahmedjanwar-LinkedIn-blue"></a>
+<img alt="LinkedIn" src="https://img.shields.io/badge/black-hoax-LinkedIn-blue"></a>
 <a href="mailto:awais.sipra22@gmail.com">
 <img alt="Email" src="https://img.shields.io/badge/Email-awais.sipra22%gmail.com-red?style=flat-square&logo=Gmail"></a>
 </p>
