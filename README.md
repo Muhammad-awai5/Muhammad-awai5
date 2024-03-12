@@ -1,149 +1,29 @@
-<h1 align="center"> Welcome 👋</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Awais</h1>
+<h3 align="center">A passionate Full Stack developer from Finland</h3>
 
-![Muhammad Awais](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Greetings%2C+my+name+is+Muhammad+Awais)
-- 👋 Hi, I’m Muhammad Awais
-- 👀 I’m interested in software Development
-- 🌱 I’m currently learning Docker,Kuberneties and AWS
-- 💞️ I’m looking to collaborate on any projects
-- 📫 How to reach me awais.sipra22@gmail.com
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=black-hoax&label=Profile%20views&color=0e75b6&style=flat" alt="black-hoax" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=black-hoax" alt="black-hoax" /></a> </p>
 
-<h2 align="center">👨🏻‍💻 Skills</h2>
+- 🔭 I’m currently working on **Twitter Clone**
 
-- Front-End, Back-End, Scripting
-- C, C++, C#, Java, Python
-- HTML, CSS, JavaScript
-- PHP & mySQL
-- Windows, Linux
-- Docker, Kuberneties
-- AWS
+- 🌱 I’m currently learning **Docker,Kuberneties and AWS**
 
-<h2 align="center"> 🤝🏻 Contact </h2>
+- 👯 I’m looking to collaborate on **Any Project**
 
-<p align="center">
-<a href="https://fi.linkedin.com/in/muhammad-awais-121b4a164/](https://fi.linkedin.com/in/muhammad-awais-121b4a164/">
-<img alt="LinkedIn" src="https://img.shields.io/badge/black-hoax-LinkedIn-blue"></a>
-<a href="mailto:awais.sipra22@gmail.com">
-<img alt="Email" src="https://img.shields.io/badge/Email-awais.sipra22%gmail.com-red?style=flat-square&logo=Gmail"></a>
+- 📫 How to reach me **awais.sipra22@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/muhammad-awais-121b4a164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-awais-121b4a164" height="30" width="40" /></a>
+<a href="https://fb.com/muhammad awais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad awais" height="30" width="40" /></a>
 </p>
 
-<h2 align="center">⚙️ Tools and technologies that I have worked with and am interested in</h2>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<table align="center">
-  <tr>
-     <td align="center" width="96">
-      <a href="#PHP">
-        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
-      </a>
-      <br>PHP
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
-      <br>RestApi
-    </td>
-  <td align="center" width="96">
-      <a href="#git" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-  </td>
-  <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
-      <br>Github
-  </td>
-  <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-     </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-    <td align="center" width="96">
-      <a href="#MySQL">
-        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <a href="#Windows" >
-        <img src="https://www.svgrepo.com/show/355384/windows-legacy.svg" width="48" height="48" alt="Windows" />
-      </a>
-      <br>Windows
-     <td align="center" width="96">
-      <a href="#ubuntu" >
-        <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
-      </a>
-      <br>Ubuntu
-    </td>
-  <td align="center" width="96">
-      <a href="#Kubuntu" >
-        <img src="https://seeklogo.com/images/K/kubuntu-logo-975308A107-seeklogo.com.png" width="48" height="48" alt="Kubuntu" />
-      </a>
-      <br>Kubuntu
-    </td>
-     </td>
-        </tr>
-    <td align="center"  width="96">
-      <a href="#vscode">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="vscode" />
-      </a>
-      <br>VS Code
-    </td>
-    <td align="center"  width="96">
-      <a href="#eclipse">
-        <img src="https://www.svgrepo.com/show/353685/eclipse-icon.svg" width="48" height="48" alt="eclipse" />
-      </a>
-      <br>Eclipse
-    </td>
-    <td align="center" width="96">
-      <a href="#C"> <img src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" alt="C" width="40" height="40"/> </a> 
-      <br>C
-    </td>
-    <td align="center" width="96">
-      <a href="#C++"> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" width="40" height="40"/> </a> 
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <a href="#Java"> <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" alt="Java" width="40" height="40"/> </a> 
-      <br>Java
-    </td>
-    
-  </tr>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=black-hoax&show_icons=true&locale=en&layout=compact" alt="black-hoax" /></p>
 
-</table>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=black-hoax&show_icons=true&locale=en" alt="black-hoax" /></p>
 
-<br/>
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=black-hoax&hide=contribs,prs" alt="GitHub stats" />
-</p>
-
-
-
-<br/>
-
-
-<!---
-black-hoax/black-hoax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=black-hoax&" alt="black-hoax" /></p>
