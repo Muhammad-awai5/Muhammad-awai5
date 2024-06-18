@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-awai5" alt="muhammad-awai5" /></a> </p>
 
-- 🔭 I’m currently working on **Twitter Clone**
+- 🔭 I’m currently working on **Twitter Clone,Software Testing**
 
 - 🌱 I’m currently learning **Docker,Kuberneties and AWS**
 
